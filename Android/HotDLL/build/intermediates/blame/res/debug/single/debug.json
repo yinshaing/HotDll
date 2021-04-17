@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkSpace\\HotDLL\\Android\\HotDLL\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "D:\\WorkSpace\\HotDLL\\Android\\HotDLL\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\WorkSpace\\HotDLL\\Android\\HotDLL\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "D:\\WorkSpace\\HotDLL\\Android\\HotDLL\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    }
+]
